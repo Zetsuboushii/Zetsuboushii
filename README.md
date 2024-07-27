@@ -12,16 +12,16 @@
 
 ---
 
-<img src="img/animegirlswithprogrammingbooks/ae950614154d980eec02d5712d737921c2d01018a7f8791f9d6280e5a4658c3a_1.jpg" height="400">
-<img src="img/animegirlswithprogrammingbooks/Tohru_Kanna_Kobayashi_Excited_for_Dragon_book.png" height="400">
-<img src="img/animegirlswithprogrammingbooks/Komi_holding_Compilers.jpg" height="400">
+<img src="img/animegirlswithprogrammingbooks/ae950614154d980eec02d5712d737921c2d01018a7f8791f9d6280e5a4658c3a_1.jpg" height="200">
+<img src="img/animegirlswithprogrammingbooks/Tohru_Kanna_Kobayashi_Excited_for_Dragon_book.png" height="200">
+<img src="img/animegirlswithprogrammingbooks/Komi_holding_Compilers.jpg" height="200">
 <br>
-<img src="img/animegirlswithprogrammingbooks/Kochiya_Sanae_Holding_C_Programming_Language.png" height="400">
-<img src="img/animegirlswithprogrammingbooks/Makise_Kurisu_Holding_C_Programming_Language.png" height="400">
-<img src="img/animegirlswithprogrammingbooks/reimu_ansi_c.png" height="400">
-<img src="img/animegirlswithprogrammingbooks/Ryo_Yamada_Holding_C_Book.jpg" height="400">
-<img src="img/animegirlswithprogrammingbooks/Sakurajima_Mai_Holding_The_HolyC_Programming_Language.jpg" height="400">
-<img src="img/animegirlswithprogrammingbooks/Ryo_Yamada_Holding_Java_Book.jpg" height="400">
+<img src="img/animegirlswithprogrammingbooks/Kochiya_Sanae_Holding_C_Programming_Language.png" height="200">
+<img src="img/animegirlswithprogrammingbooks/Makise_Kurisu_Holding_C_Programming_Language.png" height="200">
+<img src="img/animegirlswithprogrammingbooks/reimu_ansi_c.png" height="200">
+<img src="img/animegirlswithprogrammingbooks/Ryo_Yamada_Holding_C_Book.jpg" height="200">
+<img src="img/animegirlswithprogrammingbooks/Sakurajima_Mai_Holding_The_HolyC_Programming_Language.jpg" height="200">
+<img src="img/animegirlswithprogrammingbooks/Ryo_Yamada_Holding_Java_Book.jpg" height="200">
 
 # Funny stats:
 
