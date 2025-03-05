@@ -1,24 +1,34 @@
-# Backus
-
-| Kategorie               | Technologien                                         |
-|-------------------------|------------------------------------------------------|
-| **Programmiersprachen** | C, Java, JavaScript, Kotlin, PHP, Python, TypeScript |
-| **Markup & Dokumente**  | HTML5, CSS3, Markdown, LaTeX, Typst, Plaintext       |
-| **Datenformate**        | JSON, YAML                                           |
-| **Datenbanken**         | SQL (SQLite, MariaDB, MySQL)                         |
-| **Frameworks & Libs**   | Express.js, Flask, Jinja, Node.js, Vue.js, Vuetify, Jekyll, Liquid   |
-| **Entwicklungs-Tools**  | Git, GitHub                                          |
-| **Spezialentwicklung**  | 8086-Assembly, GBDK (Game Boy Development Kit)       |
-| **Grafik & Design**     | GIMP                                                 |
-
-# Bücher, die hart gehen:
+## 「寝たほうがいいよ。もう遅いから」 <img src="img/yuyuko_thinking.webp" height="20">
 
 ---
 
-| <img src="img/animegirlswithprogrammingbooks/ae950614154d980eec02d5712d737921c2d01018a7f8791f9d6280e5a4658c3a_1.jpg" height="200"> | <img src="img/animegirlswithprogrammingbooks/Tohru_Kanna_Kobayashi_Excited_for_Dragon_book.png" height="200">         | <img src="img/animegirlswithprogrammingbooks/Komi_holding_Compilers.jpg" height="200">       |
-|------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| <img src="img/animegirlswithprogrammingbooks/Kochiya_Sanae_Holding_C_Programming_Language.png" height="200">                       | <img src="img/animegirlswithprogrammingbooks/Makise_Kurisu_Holding_C_Programming_Language.png" height="200">          | <img src="img/animegirlswithprogrammingbooks/reimu_ansi_c.png" height="200">                 |
-| <img src="img/animegirlswithprogrammingbooks/Ryo_Yamada_Holding_C_Book.jpg" height="200">                                          | <img src="img/animegirlswithprogrammingbooks/Sakurajima_Mai_Holding_The_HolyC_Programming_Language.jpg" height="200"> | <img src="img/animegirlswithprogrammingbooks/Ryo_Yamada_Holding_Java_Book.jpg" height="200"> |
+| Kategorie               | Technologien                                                       |
+|-------------------------|--------------------------------------------------------------------|
+| **Programmiersprachen** | C, Java, JavaScript, Kotlin, PHP, Python, TypeScript               |
+| **Markup & Dokumente**  | HTML5, CSS3, Markdown, LaTeX, Typst, Plaintext                     |
+| **Datenformate**        | JSON, YAML                                                         |
+| **Datenbanken**         | SQL (SQLite, MariaDB, MySQL)                                       |
+| **Frameworks & Libs**   | Express.js, Flask, Jinja, Node.js, Vue.js, Vuetify, Jekyll, Liquid |
+| **Entwicklungs-Tools**  | Git, GitHub                                                        |
+| **Spezialentwicklung**  | 8086-Assembly, GBDK 2020 (Game Boy Development Kit)                |
+| **Grafik & Design**     | GIMP, Aseprite                                                     |
 
 ---
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/406094506509991936) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zetsuboushii) [![Steam](https://img.shields.io/badge/Steam-%237289DA.svg?logo=steam&logoColor=white)](https://steamcommunity.com/id/zetsuboushii/) [![MyAnimeList](https://img.shields.io/badge/MyAnimeList-%237289DA.svg?logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/Zetsuboushi) <img src="img/yuyuko_thinking.webp" height="20">
+
+When my bird was looking at my computer monitor I thought, ‘That bird has no idea what he’s looking at.’ And yet what
+does the bird do? Does he panic? No, he can’t really panic, he just does the best he can. Is he able to live in a world
+where he’s so ignorant? Well, he doesn’t really have a choice. The bird is okay even though he doesn’t understand the
+world.
+
+You’re that bird looking at the monitor, and you’re thinking to yourself, ‘I can figure this out.’ Maybe you have some
+bird ideas. Maybe that’s the best you can do.
+
+— Terry A. Davis
+
+---
+
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/fefuqa5sxojouw2paqibdy5wi?si=179746d03e364723)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/406094506509991936)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zetsuboushii)
+[![Steam](https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/zetsuboushii/)
+[![MyAnimeList](https://img.shields.io/badge/MyAnimeList-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/animelist/Zetsuboushi)
